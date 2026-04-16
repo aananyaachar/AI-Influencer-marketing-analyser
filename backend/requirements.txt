@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+scipy
+pymongo
+vaderSentiment
+transformers
+torch
+matplotlib
+flask
+flask-cors
+gunicorn
